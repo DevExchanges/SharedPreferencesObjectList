@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List Object In SharePreference</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Saving Score</string>
+    <string name="get">Scores List</string>
+    <string name="name">Player Name</string>
+    <string name="ok">OK</string>
+    <string name="list_header">High scores</string>
+    <string name="cancel">Cancel</string>
+    <string name="score">Player Score</string>
+</resources>
